@@ -2,7 +2,7 @@
 
 > **An AI-powered study companion that helps students learn, practice, revise, and improve through adaptive learning, intelligent quizzes, personalized study plans, and Retrieval-Augmented Generation (RAG).**
 
-**Live Demo:** https://clarix.vercel.app *(Update if your production URL changes)*
+**Live Demo:** clarix-wine.vercel.app *(Update if your production URL changes)*
 
 ---
 
